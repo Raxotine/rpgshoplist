@@ -1,0 +1,20 @@
+{
+	"Items": [
+		{"Name":"Dagger", "Price":"50"},
+		{"Name":"Short Sword", "Price":"100"},
+		{"Name":"Sword", "Price":"150"},
+		{"Name":"Long Sword", "Price":"200"},
+		{"Name":"Short bow", "Price":"25"},
+		{"Name":"Bow", "Price":"50"},
+		{"Name":"Long bow", "Price":"100"},
+		{"Name":"Potion", "Price":"5"},
+		{"Name":"Large potion", "Price":"10"},
+		{"Name":"Silver leaf", "Price":"10"},
+		{"Name":"Golden leaf", "Price":"25"},
+		{"Name":"Amulet of the bog", "Price":"500"},
+		{"Name":"Amulet of the storm", "Price":"500"},
+		{"Name":"Amulet of the mountain", "Price":"500"},
+		{"Name":"Map of Alinthia", "Price":"100"},
+		{"Name":"Shadow herb (dementiant)", "Price":"1000"}
+	]
+}
